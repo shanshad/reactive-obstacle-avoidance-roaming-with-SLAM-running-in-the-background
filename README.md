@@ -4,9 +4,7 @@ A 4-wheel differential drive robot roams an unknown environment using only a 2D 
 
 > **Note:** This is a reactive baseline, not frontier-based exploration. The robot does not use the map to decide where to go. See [Limitations](#limitations).
 
-## Demo
 
-[Watch the demo video](YOUR_VIDEO_LINK)
 
 ## Requirements
 
